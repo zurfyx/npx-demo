@@ -1,9 +1,12 @@
 {
   "name": "npx-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": "index.js",
+  "repository": {
+    "url": "https://gist.github.com/zurfyx/47cf03423d2349ab5dbfab7ccc56adc6"
+  },
   "dependencies": {
     "lodash": "^4.17.5"
   },
